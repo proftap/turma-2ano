@@ -1,4 +1,8 @@
-header{
-    background-color: #7F1382;
-    color:white;
+.cabeçalho{ 
+ background-color: rgb(48, 37, 206);   color: black;
+ height: 150px;
+}
+
+.classes {background-color: aliceblue; color: rgb(27, 26, 26);
+
 }
