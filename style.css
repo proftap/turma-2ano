@@ -1,8 +1,5 @@
 .cabeçalho{ 
- background-color: rgb(48, 37, 206);   color: black;
+ background-color: blue;   color: rgb(10, 9, 9);
  height: 150px;
 }
 
-.classes {background-color: rgb(225, 209, 240); color: rgb(27, 26, 26);
-
-}
